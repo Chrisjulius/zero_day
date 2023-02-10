@@ -1,2 +1,2 @@
 # README
-This is a repo for a test project for Git and Vigrant.
+This is a repo for a test project for Git and Vigrant/VMs development environment.
